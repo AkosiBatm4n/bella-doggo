@@ -8,7 +8,7 @@ export default {
     extend: {
      colors:{
       'neutralSilver': '#F5F7FA',
-      'neutralPurpleMountainsMajesty': '#9678B6',
+      'neutralPeriwinkle': '#CCCCFF',
       'brandPrimary': '#4CAF4F',
       'neutralGrey': '#F5F7FA',
      } 
